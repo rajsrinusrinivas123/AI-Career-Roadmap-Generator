@@ -1,0 +1,6 @@
+
+{
+  "name": "AI Career Compass",
+  "description": "A high-performance roadmap generator that creates personalized 60-day AI learning paths, skill gap visualizations, and project milestones using Gemini 3.",
+  "requestFramePermissions": []
+}
